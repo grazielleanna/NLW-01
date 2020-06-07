@@ -1,6 +1,7 @@
 # Next Level Week 1.0
 
 Projeto realizado no primeiro NLW da Rocketseat com o objetivo de ajudar as pessoas a encontrarem pontos de coleta de forma eficiente.
+![Capa_NLW](https://user-images.githubusercontent.com/53841934/83981997-2a67f300-a8f9-11ea-8f33-f26cd94f7d6f.PNG)
 
 ### Tecnologias Utilizadas
 * NodeJS - Essa tecnologia que foi utilizada para criação das funcionalidades no **Back-end**.
